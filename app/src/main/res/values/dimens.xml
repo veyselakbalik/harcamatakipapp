@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="margin_medium" type="dimen" >24dp</item>
+    <item name="margin_large" type="dimen" >36dp</item>
+    <item name="margin_xlarge" type="dimen" >48dp</item>
+    <item name="font_size" type="dimen" >24sp</item>
+    <item name="margin_normal" type="dimen" >24dp</item>
+</resources>

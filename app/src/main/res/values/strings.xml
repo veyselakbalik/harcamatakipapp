@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HarcamaTakipUygulamasi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="harcama_takip_uygulamasi">Harcama Takip Uygulaması</string>
+    <string name="merhaba">Merhaba</string>
+    <string name="veysel_bey">Veysel Bey</string>
+    <string name="harcamaniz">Harcamanız</string>
+    <string name="_2500_tl">2500 TL</string>
+    <string name="tl">TL</string>
+    <string name="dolar">Dolar</string>
+    <string name="euro">Euro</string>
+    <string name="sterlin">Sterlin</string>
+</resources>
